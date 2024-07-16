@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/examen14/static/css/main.b4c2bc3e.css",
+    "main.js": "/examen14/static/js/main.94f72214.js",
+    "static/js/453.79a0b5f4.chunk.js": "/examen14/static/js/453.79a0b5f4.chunk.js",
+    "index.html": "/examen14/index.html",
+    "main.b4c2bc3e.css.map": "/examen14/static/css/main.b4c2bc3e.css.map",
+    "main.94f72214.js.map": "/examen14/static/js/main.94f72214.js.map",
+    "453.79a0b5f4.chunk.js.map": "/examen14/static/js/453.79a0b5f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4c2bc3e.css",
+    "static/js/main.94f72214.js"
+  ]
+}
